@@ -55,9 +55,6 @@ date yyy and zzz.
 current month. Note the current month is the current month that 
 is decided by the system. 
   
-  Q.7 List the name of the ingredient that is mostly ordered in the 
-current  year.  Note  the  current  year  is  the  current  year  that  is  
-decided by the system. 
 
 3. Write a final report. The final report should include all the content of the above two 
 tasks, including all the SQL scripts. 
