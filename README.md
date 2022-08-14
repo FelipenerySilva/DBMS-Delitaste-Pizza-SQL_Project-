@@ -1,4 +1,4 @@
-# DBMS-Delitaste-Pizza-Project 
+# DBMS-Delitaste-Pizza-SQL_Project 
 Physical Database Design 
 
 In this assignment, steps in the physical database design are conducted (as described below) 
