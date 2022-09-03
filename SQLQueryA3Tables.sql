@@ -1,5 +1,5 @@
 
-
+-- Delitaste Pizza Basic Database System
 drop table DeliveryOrder    
 drop table DriverShift
 drop table DriverStaff
@@ -24,7 +24,7 @@ drop table InstorePayRecord
 drop table InstoreStaff
 
 
-
+-- Create required tables:
 
 CREATE TABLE InstoreStaff(
 StaffId		VARCHAR(10) PRIMARY KEY,
@@ -233,7 +233,7 @@ Foreign Key (StaffId) references InstoreStaff (StaffId)ON UPDATE CASCADE ON DELE
 Foreign Key (InstorePayRecordId) references InstorePay(RecordId)ON UPDATE CASCADE ON DELETE CASCADE
 );
 
--- Insert Data
+-- Insert Data:
 
 INSERT INTO InstoreStaff VALUES ('S0001', 'Ingel', 'Kate', '2/22 Riversdale rd', '0411223301', '111111222222', '019000', 'NAB', '5653666666', null, '20');
 INSERT INTO InstoreStaff VALUES ('S0002', 'Angel', 'Kota', '2/40 Riversdale rd', '0411223302', '111111222233', '019000', 'NAB', '5653666665', null, '25');
