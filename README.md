@@ -1,11 +1,18 @@
-# DBMS-Delitaste-Pizza-SQL_Project 
-Physical Database Design 
+# Database and Information Management Delitaste Pizza SQL_Project<br> 
+
+Repository containing a Project assignment SQL script used to develop a database management system for a Pizza retail shop. I have also provided the designed data requiment documents. <br>
+
+The project was part of my Database and Information Management course from the University of Newcastle (Uon) Master of Data Science Degree.
+
+
+## Physical Database Design Introduction 
 
 In this assignment, steps in the physical database design are conducted (as described below) 
 as well as revising the concept database design and logic database design of assignment 1 
 and assignment 2, and a final report of the project is written. 
  
-This assignment has 3 parts as specified below. 
+This assignment had 3 parts as specified below:
+
 1. Revise the concept database design and logic database design, based on your revision and 
 the feedback provided by your marker.  
  
